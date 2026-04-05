@@ -26,7 +26,7 @@ Geliştirme aşamasında
 
 ## Katkı
 Bu proje, Türkçe öğrenimini daha etkili ve kişiselleştirilmiş hale getirmeyi amaçlamaktadır.
-----
+
 ##  Objetivo
 Desarrollar una herramienta que permita un aprendizaje eficiente, personalizado y estructurado del idioma turco, combinando gramática obligatoria con vocabulario flexible.
 
@@ -46,7 +46,7 @@ Desarrollar una herramienta que permita un aprendizaje eficiente, personalizado 
 - OpenAI API  
 - Google Speech API  
 
-## 🚀 Estado del proyecto
-En desarrollo 🚧  
+##  Estado del proyecto
+En desarrollo 
 
 Este proyecto busca mejorar el aprendizaje del idioma turco mediante tecnología, ofreciendo una experiencia más personalizada y eficiente.
