@@ -1,17 +1,17 @@
 # turkish-learning-ai-app
-# 📱 Aplicación móvil para el aprendizaje del idioma turco con inteligencia artificial
+# Aplicación móvil para el aprendizaje del idioma turco con inteligencia artificial
 İspanyolca konuşan öğrenciler için yapay zeka ve uyarlanabilir öğrenme sistemleri ile Türkçe öğrenimine yönelik mobil uygulama.//Aplicación móvil para el aprendizaje del idioma turco mediante inteligencia artificial y aprendizaje adaptativo, enfocada en estudiantes hispanohablantes
 
-## 🎯 Amaç
+## Amaç
 Türkçe öğrenimini daha verimli, kişiselleştirilmiş ve yapılandırılmış hale getiren bir uygulama geliştirmek.
 
-## 👥 Hedef Kitle
+## Hedef Kitle
 - Türkiye’de yaşayan Latin Amerikalı öğrenciler  
 - TÖMER öğrencileri  
 - Türkçe öğrenmek isteyen kişiler (A1–C1)  
 - Bağımsız öğrenenler   
 
-## 🧠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - Android Studio  
 - Kotlin  
 - Jetpack Compose  
@@ -21,8 +21,8 @@ Türkçe öğrenimini daha verimli, kişiselleştirilmiş ve yapılandırılmı�
 - OpenAI API  
 - Google Speech API  
 
-## 🚀 Proje Durumu
-Geliştirme aşamasında 🚧  
+##  Proje Durumu
+Geliştirme aşamasında 
 
 ## Katkı
 Bu proje, Türkçe öğrenimini daha etkili ve kişiselleştirilmiş hale getirmeyi amaçlamaktadır.
@@ -36,7 +36,7 @@ Desarrollar una herramienta que permita un aprendizaje eficiente, personalizado 
 - Personas que desean aprender turco (A1–C1)  
 - Aprendices autónomos  
 
-## 🧠 Tecnologías utilizadas
+## Tecnologías utilizadas
 - Android Studio  
 - Kotlin  
 - Jetpack Compose  
